@@ -2,12 +2,12 @@
 
 Gym Management System is a Python Tkinter app to manage gym members, attendance, and payments. Developed by Arif and Mainul, it features member registration, tracking, and transactions with a simple, user-friendly interface.
 
-## 🏋️ Gym Management System
+## Gym Management System
 
 A simple and user-friendly Gym Management System built with Python (Tkinter).  
 This project helps gym owners and trainers manage members, attendance, and transactions in an organized way.
 
-### ✨ Features
+### Features
 
 - Dashboard – Welcome screen with navigation menu
 - Add Member – Register new members with details (name, age, gender, phone, address, membership type, start & end date)
@@ -16,18 +16,18 @@ This project helps gym owners and trainers manage members, attendance, and trans
 - Transactions – Manage and track membership payments
 - About Us – Basic information about the system
 
-### 🛠️ Technologies Used
+### Technologies Used
 
 - Python (Core logic)
 - Tkinter (GUI design)
 - SQLite / MySQL (for storing data – if added)
 
-### 👨‍💻 Developers
+### Developers
 
 - Arif – Developer
 - Mainul – Developer
 
-### 🚀 Future Improvements
+### Future Improvements
 
 - Adding login/authentication
 - Exporting reports (PDF/Excel)
